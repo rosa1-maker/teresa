@@ -1,5 +1,5 @@
 html{
-    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqXMCpDcfaZFvLgxaRcIbhm8CzuYjo-_MMmWVTfjxEMVcZxr19hw&s");
+    background-image:url("https://images.pexels.com/photos/112460/pexels-photo-112460.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
     background-repeat: no-repeat;
     background-size:contain;
     background-color:cyan;
@@ -29,10 +29,18 @@ h2{
     background-position:right top;
     text-align:center;
 }
-.serv{
+#serv{
     font-size:50px;
+    border:2px solid black;
+}
+.header{
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;;
 }
 
+.class{
+    color:burlywood;
+}
 
 nav ul li{
       display:inline-block;
@@ -43,7 +51,7 @@ nav ul li{
     
 }
 li{
-    background-color:m
+    background-color:green
 }
 
  nav ul li a{
@@ -91,20 +99,21 @@ table{
 }
 
 .one{
-    width:100px;
-    height:100px; 
+    width:200px;
+    height:200px; 
 }
 
 tr{
     border-collapse:collapse;
     border:2px solid black;
-    padding-top:10px;
+    padding-top:30px;
 }
 
 th,td,tr,table{
 
     border:2px solid black;
     border-collapse: collapse;
+    margin-right:50px;
 }
 
 tr,th,td{
@@ -120,7 +129,7 @@ tr,th,td{
     
 }
 .image{
-    padding-top:390px;
+    padding-top:600px;
 }
 #image{
     display:flex;
@@ -134,7 +143,7 @@ tr,th,td{
     display:inline-flex;
     width:100%;
     height:40%;
-    padding-top:50px;
+    padding-top:120px;
     border-color: yellow;
     background-color: palevioletred;
 }
@@ -143,4 +152,12 @@ h3 p,h4 p{
 }
 h3,h4{
     font-size:20px;
+}
+.about{
+    color:rgb(8, 8, 8);
+    padding-top:700px;
+}
+#mission,#vision{
+    font-size:20px;
+    color:mediumspringgreen;
 }
