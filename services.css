@@ -177,7 +177,7 @@ h3 p,h4 p{
     display:inline-block;
 }
 @media screen and (max-width:480px){
-    #image,.image,.image2,.img{
+    .image,.image2,.img{
         display: flex;
         flex-direction: column;
         width: 100% auto;
