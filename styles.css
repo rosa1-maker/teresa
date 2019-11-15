@@ -1,5 +1,5 @@
 html{
-    background-image:url("https://www.maserati.com/mediaObject/sites/international/Models/MY19/Levante-MY19/169-1920/Trofeo/Maserati-MY19-Levante-Trofeo-V8-180630M/resolutions/res-l1400x10000/Maserati-MY19-Levante-Trofeo-V8-180630M.jpg");
+    background-image:url("https://hdwallsource.com/img/2018/9/bmw-i8-open-road-background-wallpaper-64652-66844-hd-wallpapers.jpg");
     background-size:cover;
     background-repeat: no-repeat;
     overflow:none;
@@ -13,7 +13,7 @@ body{
 }
 
 .overlay{
-    background:black;
+    background:rgb(7, 7, 7);
     top:0;
    bottom:0;
    left:0;
@@ -41,7 +41,7 @@ h2{
 .header{
     color:black;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgnC-zLOp4__Ls9OHsQI1bpDx1enRdYfGxB53o6plapbdBg8xc6A&s");
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgnC-zLOp4__Ls9OHsQI1bpDx1enRdYfGx B53o6plapbdBg8xc6A&s");
     height:200px;
     width:300px;
     position:sticky;
@@ -86,7 +86,7 @@ h3,h4{
 
 h5{
     font-family:"Times New Roman" monospace;
-    color:black;
+    color:white;
     font-size:medium;
 }
 
@@ -148,7 +148,7 @@ tr,th,td{
     border:auto seashell;
     width:100%;
     height:100px;
-    background-color:rgb(206, 219, 219);
+    background-color: gray;
     padding-top:0px;
     justify-content:space-between;
     display:flex;
@@ -162,5 +162,5 @@ h3 p,h4 p{
 }
 #mission,#vision{
     font-size:30px;
-    color:black;
+    color:whitesmoke;
 }
