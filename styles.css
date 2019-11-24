@@ -1,7 +1,7 @@
 html{
-    background-image:url("https://hdwallsource.com/img/2018/9/bmw-i8-open-road-background-wallpaper-64652-66844-hd-wallpapers.jpg");
-    background-size:cover;
-    background-repeat: no-repeat;
+    background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(https://hdwallsource.com/img/2018/9/bmw-i8-open-road-background-wallpaper-64652-66844-hd-wallpapers.jpg) no-repeat center center/cover;
+    /* background-size:cover;
+    background-repeat: no-repeat; */
     overflow:none;
     height:auto;
     width:auto;
@@ -41,11 +41,13 @@ h2{
 .header{
     color:black;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgnC-zLOp4__Ls9OHsQI1bpDx1enRdYfGx B53o6plapbdBg8xc6A&s");
+    background-image:url("https://bit.ly/356e9Sm");
     height:200px;
     width:300px;
     position:sticky;
     background-repeat: no-repeat;
+    /* display:flex;
+    justify-content:space-around; */
 }
 
 
